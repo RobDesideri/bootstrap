@@ -2,7 +2,16 @@
   "name": "jasny-bootstrap-313-sassfix",
   "version": "3.1.3-sassfix",
   "main": [
-    "./scss/**/*.scss",
+    "scss/_alerts-fixed.scss",
+    "scss/_button-labels.scss",
+    "scss/_fileinput.scss",
+    "scss/_grid-container-smooth.scss",
+    "scss/_nav-tab-alignment.scss",
+    "scss/_navmenu.scss",
+    "scss/_offcanvas.scss",
+    "scss/_rowlink.scss",
+    "scss/_variables.scss",
+    "scss/jasny-bootstrap.scss",
     "./dist/js/jasny-bootstrap.js"
   ],
   "ignore": [
